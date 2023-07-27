@@ -12,8 +12,6 @@ function App() {
         <a
           className="App-link"
           href="/home"
-          target="_blank"
-          rel="noopener noreferrer"
         >
           Next
         </a>
